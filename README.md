@@ -37,9 +37,9 @@ A recorded demo of the app is included as `demo.mp4`.
 
 | Name | GitHub | Role |
 |---|---|---|
-| Mohamed Wael | [@MohamedWael05](https://github.com/MohamedWael05) | |
-| Doha Alaraby | [@dohaalaraby-lang](https://github.com/dohaalaraby-lang) | |
-| Eyad Hatem | [@eyaddhatem](https://github.com/eyaddhatem) | |
-| Mohamed | [@Mo7amed107](https://github.com/Mo7amed107) | |
-| Shaimaa Kotit | [@shaimaakotit-29](https://github.com/shaimaakotit-29) | |
-| Rohima Ahmed | [@rohimaahmed101-sys](https://github.com/rohimaahmed101-sys) | |
+| Mohamed Wael | [@MohamedWael05](https://github.com/MohamedWael05) | Backend |
+| Doha Alaraby | [@dohaalaraby-lang](https://github.com/dohaalaraby-lang) | Backend |
+| Eyad Hatem | [@eyaddhatem](https://github.com/eyaddhatem) | GUI |
+| Mohamed Saleh | [@Mo7amed107](https://github.com/Mo7amed107) | Testing |
+| Shaimaa Kotit | [@shaimaakotit-29](https://github.com/shaimaakotit-29) | Server |
+| Rohima Ahmed | [@rohimaahmed101-sys](https://github.com/rohimaahmed101-sys) | DB |
